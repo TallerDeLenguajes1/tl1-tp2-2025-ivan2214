@@ -1,0 +1,2 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+- No se puede ver ya que este pertenece a otra rama llamada Opcion_2 y hasta que no haya un merge no aparecera en esta rama
